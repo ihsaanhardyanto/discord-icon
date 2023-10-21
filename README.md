@@ -1,2 +1,2 @@
 # discord-icon
-🤖 Personal repository for vscode rich presence
+Personal repository for vscode rich presence
